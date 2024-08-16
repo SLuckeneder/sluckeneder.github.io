@@ -15,7 +15,7 @@ I am a PhD candidate at Vienna University of Economics and Business (WU), workin
 
 My dissertation investigates the direct and indirect environmental and socio-economic impacts of mining activities. Leveraging granular geospatial data, I work on several key areas: (i) assessing the contextual risks of expanding mining operations into vulnerable ecosystems, (ii) examining the effects of mining on regional economic development and forest cover loss at the example of mining in Brazil, and (iii) tracing the local environmental impacts of mining activities along global supply chains from production to consumption.
 
-Find my <a href="https://sluckeneder.github.io/files/CV.pdf">CV here</a> and learn more about my current and past research projects below. You can also find my research on <a href="https://scholar.google.at/citations?user=lggrSN4AAAAJ">Google Scholar</a>.
+Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf">here</a> and learn more about my current and past research projects below. You can also find my research on <a href="https://scholar.google.at/citations?user=lggrSN4AAAAJ">Google Scholar</a>.
 
 ## Selected work in progress 
 
