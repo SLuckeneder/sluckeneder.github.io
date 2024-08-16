@@ -9,3 +9,13 @@ redirect_from:
 I am a PhD candidate at Vienna University of Economics and Business (WU), working under the supervision of Dr. Stefan Giljum, and serve as a teaching and research associate at the Institute for Ecological Economics. My research centers on ecological and development economics, with a particular focus on the interplay between natural resources and socio-economic systems. To explore related complexities, I primarily utilise econometric and statistical techniques.
 
 My dissertation investigates the direct and indirect environmental and socio-economic impacts of mining activities. Leveraging granular geospatial data, I investigate several key areas: (i) assessing the contextual risks of expanding mining operations into vulnerable ecosystems, (ii) examining the effects of mining on regional economic development and forest cover loss at the example of mining in Brazil, and (iii) tracing the local environmental impacts of mining activities along global supply chains from production to consumption.
+
+Here, you find my CV and below more information on my ongoing and past projects.
+
+## Selected work in progress 
+
+## Journal articles
+
+##  Other publications
+
+
