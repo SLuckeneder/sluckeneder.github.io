@@ -23,7 +23,7 @@ Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf">here</a> and lea
 ## Journal articles
 
 * "How to fuel an energy transition with ecologically responsible mining" with Laura Sonter, Stefan Giljum, Victor Maus, Stephen Northey, Tim Werner, Piero Visconti, James Watson and more, _Proceedings of the National Academy of Sciences_ **120**(35), e2307006120, 2023. [[DOI](https://doi.org/10.1073/pnas.2307006120)]
-* "Undermined efforts? The ambiguous role of mining jobs in a just transition" wirh Martin Cerny, _Journal für Entwicklungspolitik_ **39**(3/4), 113-138, 2023. [[DOI](https://doi.org/10.20446/JEP-2414-3197-39-3-113)]
+* "Undermined efforts? The ambiguous role of mining jobs in a just transition" with Martin Cerny, _Journal für Entwicklungspolitik_ **39**(3/4), 113-138, 2023. [[DOI](https://doi.org/10.20446/JEP-2414-3197-39-3-113)]
 * "A pan-tropical assessment of deforestation caused by industrial mining" with Stefan Giljum, Victor Maus, Nikolas Kuschnig, Michael Tost, Laura Sonter and Anthony Bebbington, _Proceedings of the National Academy of Sciences_ **119**(38), e2118273119, 2022. [[DOI](https://doi.org/10.1073/pnas.2118273119)]
 * "An update on global mining land use" with Victor Maus, Stefan Giljum, Dieison da Silva, Jakob Gutschlhofer, Robson da Rosa, Sidnei Gass, Mirko Lieber and Ian McCallum, _Nature Scientific Data_ **9**(433), 2022. [[DOI](https://doi.org/10.1038/s41597-022-01547-4)]
 * "Surge in global metal mining threatens vulnerable ecosystems" with Stefan Giljum, Anke Schaffartzik, Victor Maus and Michael Tost, _Global Environmental Change_ **69**, 102303, 2021. [[DOI](https://doi.org/10.1016/j.gloenvcha.2021.102303)]
