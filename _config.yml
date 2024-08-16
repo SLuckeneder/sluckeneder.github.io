@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sebastian Luckeneder"
+title                    : false
 title_separator          : "-"
-name                     : &name "Sebastian Luckeneder"
+name                     : true
 description              : &description "Homepage"
 url                      : https://sluckeneder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
