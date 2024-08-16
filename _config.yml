@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : null
+title                    : "Sebastian Luckeneder"
 title_separator          : "-"
 name                     : &name "Sebastian Luckeneder"
 description              : &description "Homepage"
