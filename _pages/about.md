@@ -30,6 +30,6 @@ Find my <a href="https://sluckeneder.github.io/files/CV.pdf">CV here</a> and lea
 * "A global-scale data set of mining areas" with Victor Maus, Stefan Giljum, Jakob Gutschlhofer, Dieison da Silva, Michael Probst, Sidnei Gass, Mirko Lieber and Ian McCallum, _Nature Scientific Data_ **7**(289), 2020. [[DOI](https://doi.org/10.1038/s41597-020-00624-w)]
 * "Ecosystem services costs of metal mining and pressures on biomes" with Michael Tost, Diego Murguia, Michael Hitch, Stephan Lutter, Susanne Feiel and Peter Moser, _The Extractive Industries and Society_ **7**(1), 79-86, 2019. [[DOI](https://doi.org/10.1016/j.exis.2019.11.013)]
 
-##  Other publications
+##  Selected other publications
 
-
+* "Extracted forests. Unearthing the role of mining-related deforestation as a driver of global deforestation" with Moritz Kramer, Tobias Kind-Rieper, Stefan Giljum, Victor Maus and more, WWF, Berlin, 2023. [[Report](https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Wald/WWF-Studie-Extracted-Forests.pdf)]
