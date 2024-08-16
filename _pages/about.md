@@ -19,7 +19,7 @@ Find my CV here and learn more about my current and past research projects below
 
 ## Journal articles
 
-* "How to fuel an energy transition with ecologically responsible mining" with Laura Sonter, Stefan Giljum, Victor Maus, Stephen Northey, Tim Werner, Piero Visconti, James Watson and more, _Proceedings of the National Academy of Sciences_ **120**(35), e2307006120, 2023. [[DOI](https://doi.org/10.1073/pnas.2307006120)/[WP]([https://arxiv.org/abs/2207.12225](https://www.pnas.org/doi/10.1073/pnas.2307006120))]
+* "How to fuel an energy transition with ecologically responsible mining" with Laura Sonter, Stefan Giljum, Victor Maus, Stephen Northey, Tim Werner, Piero Visconti, James Watson and more, _Proceedings of the National Academy of Sciences_ **120**(35), e2307006120, 2023. [[DOI](https://doi.org/10.1073/pnas.2307006120)]
 
 ##  Other publications
 
