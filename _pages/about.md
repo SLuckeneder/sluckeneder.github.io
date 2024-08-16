@@ -10,7 +10,7 @@ I am a PhD candidate at Vienna University of Economics and Business (WU), workin
 
 My dissertation investigates the direct and indirect environmental and socio-economic impacts of mining activities. Leveraging granular geospatial data, I investigate several key areas: (i) assessing the contextual risks of expanding mining operations into vulnerable ecosystems, (ii) examining the effects of mining on regional economic development and forest cover loss at the example of mining in Brazil, and (iii) tracing the local environmental impacts of mining activities along global supply chains from production to consumption.
 
-Here, you find my CV and below more information on my ongoing and past projects.
+Find my CV here and learn more about my current and past research projects below.
 
 ## Selected work in progress 
 
