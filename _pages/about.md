@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Sebastian Luckeneder"
+title: "Welcome to my website"
 excerpt: "Sebastian Luckeneder"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-## Welcome to my website
 
 I am a PhD candidate at Vienna University of Economics and Business (WU), working under the supervision of Dr. Stefan Giljum, and serve as a teaching and research associate at the Institute for Ecological Economics. My research centers on ecological and development economics, with a particular focus on the interplay between natural resources and socio-economic systems. To explore related complexities, I primarily apply econometric and statistical techniques.
 
