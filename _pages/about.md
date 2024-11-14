@@ -16,9 +16,10 @@ Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf">here</a> and lea
 
 ## Selected work in progress 
 
-* "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen, 2024. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min)]
-* "Transient economic benefit and persistent forest loss: legacy of the Brazilian mining sector" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, R&R _Nature Communications_, 2024. 
-* "Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa" with Andrew Tatem, Patrick Webb, Amelia Finaret, Valentin Seidler and more, R&R _Nature Communications_, 2023. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)]
+* "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen _(under review)_. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min)]
+* "Transient economic benefit and persistent forest loss: legacy of the Brazilian mining sector" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, R&R _Nature Communications_.
+* "Global metal mining is a growing driver of environmental change" with Stefan Giljum, Victor Maus, Juliana Siqueira-Gay, Laura Sonter, Tim Werner, Anthony Bebbington and more _(under review)_.
+* "Subnational Variations in the Quality of Population Health Data: A Geospatial Analysis of Household Surveys in Africa" with Andrew Tatem, Patrick Webb, Amelia Finaret, Valentin Seidler and more, R&R _Nature Communications_. [[WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419)]
 
 ## Journal articles
 
