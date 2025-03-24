@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Vienna University of Economics and Business (WU), working under the supervision of Dr. Stefan Giljum, and serve as a teaching and research associate at the Institute for Ecological Economics. My research centers on ecological and development economics, with a particular focus on the interplay between natural resources and socioeconomic systems. To explore related complexities, I primarily apply econometric and statistical techniques.
+I am a postdoctoral researcher at the <a href="https://www.wu.ac.at/en/ecolecon/institute">Institute for Ecological Economics</a> at Vienna University of Economics and Business (WU), where I am an active member of the <a href="https://resource-use.global/">Global Resource Use</a> research group. My work centers on ecological and development economics, with a particular focus on the interplay between natural resources and socioeconomic systems. To address these complexities, I primarily apply econometric and statistical methods.
 
-My dissertation investigates the direct and indirect environmental and socioeconomic impacts of mining activities. Leveraging granular geospatial data, I work on several key areas: (i) assessing the contextual risks of expanding mining operations into vulnerable ecosystems, (ii) examining the effects of mining on regional economic development and forest cover loss at the example of mining in Brazil, and (iii) tracing the local environmental impacts of mining activities along global supply chains from production to consumption.
+I completed my PhD in ecological economics at WU under the supervision of Dr. Stefan Giljum, where my dissertation examined the direct and indirect environmental and socioeconomic impacts of mining activities. By leveraging granular geospatial data, I worked on several key areas: (i) assessing the contextual risks of expanding mining operations into vulnerable ecosystems, (ii) examining the effects of mining on regional economic development and forest cover loss at the example of mining in Brazil, and (iii) tracing the local environmental impacts of mining activities along global supply chains from production to consumption. The full thesis is available for download <a href="https://sluckeneder.github.io/files/Luckeneder-thesis-2024.pdf" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'thesis'});">here</a>.
 
-Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf">here</a> and learn more about my current and past research projects below. You can also find my research on <a href="https://scholar.google.at/citations?user=lggrSN4AAAAJ">Google Scholar</a>.
+Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'CV'});">here</a> and learn more about my current and past research projects below. You can also find my research on <a href="https://scholar.google.at/citations?user=lggrSN4AAAAJ">Google Scholar</a>.
 
 ## Selected work in progress 
 
@@ -33,4 +33,5 @@ Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf">here</a> and lea
 
 ##  Selected other publications
 
+* "Spatial data approaches for assessing the environmental and socioeconomic impacts of mining activities", Doctoral Thesis, Vienna University of Economics and Business, 2024. <a href="https://sluckeneder.github.io/files/Luckeneder-thesis-2024.pdf" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'thesis'});">[Thesis]</a>
 * "Extracted forests. Unearthing the role of mining-related deforestation as a driver of global deforestation" with Moritz Kramer, Tobias Kind-Rieper, Stefan Giljum, Victor Maus and more, WWF, Berlin, 2023. [[Report](https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Wald/WWF-Studie-Extracted-Forests.pdf)]
