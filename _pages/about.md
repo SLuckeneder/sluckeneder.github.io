@@ -33,5 +33,5 @@ Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf" target="_blank" 
 
 ##  Selected other publications
 
-* "Spatial data approaches for assessing the environmental and socioeconomic impacts of mining activities", Doctoral Thesis, Vienna University of Economics and Business, 2024. <a href="https://sluckeneder.github.io/files/Luckeneder-thesis-2024.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'thesis'});">[Thesis]</a>
+* "Spatial data approaches for assessing the environmental and socioeconomic impacts of mining activities", Doctoral Thesis, Vienna University of Economics and Business, 2024. [<a href="https://sluckeneder.github.io/files/Luckeneder-thesis-2024.pdf" target="_blank" onclick="gtag('event', 'download', {'event_category': 'PDF', 'event_label': 'thesis'});">Thesis</a>]
 * "Extracted forests. Unearthing the role of mining-related deforestation as a driver of global deforestation" with Moritz Kramer, Tobias Kind-Rieper, Stefan Giljum, Victor Maus and more, WWF, Berlin, 2023. [[Report](https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Wald/WWF-Studie-Extracted-Forests.pdf){:target="_blank"}]
