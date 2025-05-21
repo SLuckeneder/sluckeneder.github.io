@@ -16,9 +16,9 @@ Find my CV <a href="https://sluckeneder.github.io/files/CV.pdf" target="_blank" 
 
 ## Selected work in progress 
 
-* "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen _(under review)_. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
-* "Transient economic benefit and persistent forest loss: legacy of the Brazilian mining sector" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, R&R _Nature Communications_.
-* "Global metal mining is a growing driver of environmental change" with Stefan Giljum, Victor Maus, Juliana Siqueira-Gay, Laura Sonter, Tim Werner, Anthony Bebbington and more, R&R _Nature Reviews Earth & Environment_.
+* "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
+* "Transient economic benefit and persistent forest loss: legacy of the Brazilian mining sector" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, _Nature Communications_ (accepted).
+* "Global metal mining is a growing driver of environmental change" with Stefan Giljum, Victor Maus, Juliana Siqueira-Gay, Laura Sonter, Tim Werner, Anthony Bebbington and more, _Nature Reviews Earth & Environment_ (accepted).
 * "Water use for global copper production" with Stephan Lutter, Victor Maus and Michael Tost.
 
 ## Journal articles
