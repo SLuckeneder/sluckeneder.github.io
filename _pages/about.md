@@ -22,7 +22,7 @@ Find my **CV** <a href="https://sluckeneder.github.io/files/CV.pdf" target="_bla
 
 ## Journal articles
 
-* "Metal mining is a global driver of environmental change" with Stefan Giljum, Victor Maus, Laura Sonter, Tim Werner, Stephan Lutter, Juliana Siqueira-Gay, Anthony Bebbington and more, _Nature Reviews Earth & Environment_, 2025. [[DOI](https://doi.org/10.1038/s43017-025-00683-w){:target="_blank"}]
+* "Metal mining is a global driver of environmental change" with Stefan Giljum, Victor Maus, Laura Sonter, Tim Werner, Stephan Lutter, Juliana Siqueira-Gay, Anthony Bebbington and more, _Nature Reviews Earth & Environment_ **6**, 441–455, 2025. [[DOI](https://doi.org/10.1038/s43017-025-00683-w){:target="_blank"}]
 * "Subnational variations in the quality of household survey data in sub-Saharan Africa" with Valentin Seidler, Amelia Finaret, Gregor Zens, Andrew Tatem, Patrick Webb and more, _Nature Communications_ **16**, 3771, 2025. [[DOI](https://doi.org/10.1038/s41467-025-58776-5){:target="_blank"}, [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419){:target="_blank"}]
 * "How to fuel an energy transition with ecologically responsible mining" with Laura Sonter, Stefan Giljum, Victor Maus, Stephen Northey, Tim Werner, Piero Visconti, James Watson and more, _Proceedings of the National Academy of Sciences_ **120**(35), e2307006120, 2023. [[DOI](https://doi.org/10.1073/pnas.2307006120){:target="_blank"}]
 * "Undermined efforts? The ambiguous role of mining jobs in a just transition" with Martin Cerny, _Journal für Entwicklungspolitik_ **39**(3/4), 113-138, 2023. [[DOI](https://doi.org/10.20446/JEP-2414-3197-39-3-113){:target="_blank"}]
