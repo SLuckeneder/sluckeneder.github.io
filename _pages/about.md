@@ -17,7 +17,7 @@ Find my **CV** <a href="https://sluckeneder.github.io/files/CV.pdf" target="_bla
 ## Selected work in progress 
 
 * "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
-* "Forest loss and uncertain economic gains from industrial and garimpo mining in Brazilian municipalities" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, _Nature Communications_ (conditionally accepted).
+* "Forest loss and uncertain economic gains from industrial and garimpo mining in Brazilian municipalities" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, _Nature Communications_ (accepted).
 * "Water use for global copper production" with Stephan Lutter, Victor Maus and Michael Tost.
 
 ## Journal articles
