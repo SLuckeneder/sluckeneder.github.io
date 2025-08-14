@@ -19,7 +19,7 @@ Find my **CV** <a href="https://sluckeneder.github.io/files/CV.pdf" target="_bla
 ## Selected work in progress 
 
 * "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
-* "Water use for global copper production" with Stephan Lutter, Victor Maus and Michael Tost.
+* "Increasing Water Use in Global Copper Production Threatens Freshwater Availability" with Stephan Lutter, Victor Maus and Michael Tost. [[WP](https://doi.org/10.57938/441b6e21-b914-4565-a2af-623f78ed92c6){:target="_blank"}]
 
 ## Journal articles
 
