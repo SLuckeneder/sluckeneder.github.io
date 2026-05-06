@@ -18,12 +18,12 @@ Find my **CV** <a href="https://sluckeneder.github.io/files/CV.pdf" target="_bla
 
 ## Selected work in progress 
 
-* "Growing nickel supply from the tropics threatens priority conservation areas" with Jayden Hyman, Laura Sonter, Eve McDonald-Madden, James Watson, Evelyn Mervine, Stephen Northey and more, forthcoming _Nature Ecology & Evolution_.
 * "EU consumption's hidden link to global deforestation caused by mining" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen. [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
 * "Increasing Water Use in Global Copper Production Threatens Freshwater Availability" with Stephan Lutter, Victor Maus and Michael Tost. [[WP](https://doi.org/10.57938/441b6e21-b914-4565-a2af-623f78ed92c6){:target="_blank"}]
 
 ## Journal articles
 
+* "Growing nickel supply from the tropics threatens priority conservation areas" with Jayden Hyman, Laura Sonter, Eve McDonald-Madden, James Watson, Evelyn Mervine, Stephen Northey and more, _Nature Ecology & Evolution_, 2026. [[DOI](https://doi.org/10.1038/s41559-026-03068-4){:target="_blank"}]
 * "Forest loss and uncertain economic gains from industrial and garimpo mining in Brazilian municipalities" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, _Nature Communications_ **16**, 6543, 2025. [[DOI](https://doi.org/10.1038/s41467-025-61930-8){:target="_blank"}]
 * "Metal mining is a global driver of environmental change" with Stefan Giljum, Victor Maus, Laura Sonter, Tim Werner, Stephan Lutter, Juliana Siqueira-Gay, Anthony Bebbington and more, _Nature Reviews Earth & Environment_ **6**, 441–455, 2025. [[DOI](https://doi.org/10.1038/s43017-025-00683-w){:target="_blank"}]
 * "Subnational variations in the quality of household survey data in sub-Saharan Africa" with Valentin Seidler, Amelia Finaret, Gregor Zens, Andrew Tatem, Patrick Webb and more, _Nature Communications_ **16**, 3771, 2025. [[DOI](https://doi.org/10.1038/s41467-025-58776-5){:target="_blank"}, [WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4508419){:target="_blank"}]
