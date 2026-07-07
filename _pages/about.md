@@ -18,12 +18,11 @@ Find my **CV** <a href="https://sluckeneder.github.io/files/CV.pdf" target="_bla
 
 ## Selected work in progress 
 
-* "Mining-related tree cover loss embodied in EU consumption" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen, _Resources, Conservation & Recycling_ (forthcoming).
- [[WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
 * "Increasing Water Use in Global Copper Production Threatens Freshwater Availability" with Stephan Lutter, Victor Maus and Michael Tost. [[WP](https://doi.org/10.57938/441b6e21-b914-4565-a2af-623f78ed92c6){:target="_blank"}]
 
 ## Journal articles
 
+* "Mining-related tree cover loss embodied in EU consumption" with Stefan Giljum, Victor Maus, Laura Sonter and Manfred Lenzen, _Resources, Conservation & Recycling_, 2026. [[DOI](https://doi.org/10.1016/j.resconrec.2026.109064){:target="_blank"}, [WP](https://research.wu.ac.at/en/publications/eu-consumptions-hidden-link-to-global-deforestation-caused-by-min){:target="_blank"}]
 * "Growing nickel supply from the tropics threatens priority conservation areas" with Jayden Hyman, Laura Sonter, Eve McDonald-Madden, James Watson, Evelyn Mervine, Stephen Northey and more, _Nature Ecology & Evolution_, 2026. [[DOI](https://doi.org/10.1038/s41559-026-03068-4){:target="_blank"}]
 * "Forest loss and uncertain economic gains from industrial and garimpo mining in Brazilian municipalities" with Victor Maus, Juliana Siqueira-Gay, Tamás Krisztin and Michael Kuhn, _Nature Communications_ **16**, 6543, 2025. [[DOI](https://doi.org/10.1038/s41467-025-61930-8){:target="_blank"}]
 * "Metal mining is a global driver of environmental change" with Stefan Giljum, Victor Maus, Laura Sonter, Tim Werner, Stephan Lutter, Juliana Siqueira-Gay, Anthony Bebbington and more, _Nature Reviews Earth & Environment_ **6**, 441–455, 2025. [[DOI](https://doi.org/10.1038/s43017-025-00683-w){:target="_blank"}]
