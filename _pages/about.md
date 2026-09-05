@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the <a href="https://www.stockholmresilience.org/" target="_blank">Stockholm Resilience Centre (SRC)</a>. My work centres on ecological and development economics, with a particular focus on the interplay between natural resources and socioeconomic systems. My current research focuses on the themes of circular economy and ecologically unequal exchange.
+I am a postdoctoral researcher at the <a href="https://www.stockholmresilience.org/" target="_blank">Stockholm Resilience Centre (SRC)</a>. My work is rooted in ecological economics and development studies, with a particular interest in natural resources, their extraction, local environmental and socioeconomic impacts, and their flows along global supply chains. My current research focuses on the themes of circular economy and ecologically unequal exchange.
 
 Prior to joining SRC, I was a research associate at the <a href="https://www.wu.ac.at/en/ecolecon/institute" target="_blank">Institute for Ecological Economics</a> at Vienna University of Economics and Business (WU), and a member of the <a href="https://resource-use.global/" target="_blank">Global Resource Use</a> research group. 
 
