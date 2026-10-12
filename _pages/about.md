@@ -18,6 +18,7 @@ Find my **CV** <a href="https://sluckeneder.github.io/files/CV.pdf" target="_bla
 
 ## Selected work in progress 
 
+* "Renewable energy repurposing of coal mining lands in Southeast Asia" with Stefan Giljum, Marc Freestone, Laura Sonter and Victor Maus.
 * "Increasing Water Use in Global Copper Production Threatens Freshwater Availability" with Stephan Lutter, Victor Maus and Michael Tost. [[WP](https://doi.org/10.57938/441b6e21-b914-4565-a2af-623f78ed92c6){:target="_blank"}]
 
 ## Journal articles
